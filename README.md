@@ -6,4 +6,5 @@ This is the concept works for HTML & CSS & Javascript.
 
 |  #  | Project                                                                                                                     | Completed                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [![](https://images.app.goo.gl/hgJs9WRAacSr97pdA)]
+| 01  | [Expanding Cards](https://github.com/berkayefecanyasar/50-Projects-50-Days/tree/main/1.Expanding%20Cards)                             | [![](https://images.app.goo.gl/hgJs9WRAacSr97pdA)]
+
